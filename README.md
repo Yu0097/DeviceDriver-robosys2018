@@ -11,9 +11,14 @@ https://youtu.be/0Pk_HCv-g8I
 
 # Requirement
 * Computer
-  * Raspberry Pi3 Model B+
+ * Raspberry Pi3 Model B+
 * OS
-  * Raspbian
+ * Raspbian* p
+* Parts
+ * RedLED
+ * GreenLED
+ * BreadBoard
+ * JumperWire (male - female)
 
 # Install
 ```
