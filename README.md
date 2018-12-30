@@ -38,4 +38,4 @@ $ echo [R or G] > /dev/ledchika0
 ```
 
 # License
-MIT License
+GNU General Public License v3.0
