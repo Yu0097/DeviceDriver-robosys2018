@@ -16,7 +16,7 @@ https://youtu.be/ZaO6G3mgpqE
   * Raspbian
 
 # Install
-$ git clone https://github.com/Yu0097/DeviceDriver-robosys2018.git
+' $ git clone https://github.com/Yu0097/DeviceDriver-robosys2018.git '
 
 # Usage
 
