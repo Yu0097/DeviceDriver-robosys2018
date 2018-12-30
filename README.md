@@ -15,10 +15,11 @@ https://youtu.be/0Pk_HCv-g8I
 * OS
    * Raspbian* p
 * Parts
-   * RedLED
-   * GreenLED
-   * BreadBoard
-   * JumperWire (male - female)
+   * Red LED
+   * Green LED
+   * Bread Board
+   * Jumper Wire (male - female)
+   * Carbon Resistor
 
 # Install
 ```
