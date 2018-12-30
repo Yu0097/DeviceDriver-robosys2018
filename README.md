@@ -7,7 +7,7 @@
 端末でRaspberry Pi3 Model B+上の2色のLEDを操作。
 
 # Demo
-https://youtu.be/ZaO6G3mgpqE
+https://youtu.be/0Pk_HCv-g8I
 
 # Requirement
 * Computer
