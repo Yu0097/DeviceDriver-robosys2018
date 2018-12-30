@@ -1,7 +1,7 @@
 # DeviceDriver-robosys2018
 
 # Overview
-端末でRaspberry Pi3 Model B+上の2色のLEDを操作。
+Raspberry Pi3 Model B+上の2色のLEDでLチカを行う。
 
 # Description
 端末でRaspberry Pi3 Model B+上の2色のLEDを操作。
